@@ -9,6 +9,9 @@ This repository contains a collection of documents, notes, and resources related
 - Pushdown Automata
 - Turing Machines
 - Computability Theory
+- [Hilbert's Program](HilbertsProgram.md)
+- [Mathematical Paradoxes and Foundational Crises](MathematicalParadoxes.md)
+- [Computability and Algorithms](ComputabilityAndAlgorithms.md)
 - Complexity Theory
 - Formal Languages
 - Applications in Computer Science
