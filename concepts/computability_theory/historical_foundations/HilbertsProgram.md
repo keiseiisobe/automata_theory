@@ -41,7 +41,7 @@ This process is purely mechanical; it doesn't require understanding *what* "even
 
 Despite its ambitious goals, Hilbert's Program faced significant challenges and was ultimately shown to be unattainable in its original form due to groundbreaking work by Kurt Gödel.
 
-In 1931, **Kurt Gödel's Incompleteness Theorems** proved that:
+In 1931, **Kurt Gödel's Incompleteness Theorems** (`[Gödel's Incompleteness Theorems](GodelsIncompletenessTheorems.md)`) proved that:
 1.  For any sufficiently powerful, consistent, and recursively enumerable axiomatic system capable of expressing basic arithmetic, there will always be true statements within that system that cannot be proven within the system itself (undecidable statements) [4]. This challenged the goal of completeness.
 2.  Such a system cannot prove its own consistency. This meant that the goal of proving the consistency of mathematics using only finitistic methods from *within* mathematics was impossible.
 
