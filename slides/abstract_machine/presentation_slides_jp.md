@@ -1,16 +1,10 @@
-# Do You Love Coding?
+![](I_love_coding.jpg)
 
 ![](BT_and_AT.png)
 
 ![](finite_state_machine_wiki.png)
 
-# What is The Halting Problem?
-
 ![](halting_problem_wiki_jp.png)
-
-# Let's Prove the Halting Problem is Unsolvable
-
-## Alan Turing's Proof by Contradiction (1936)
 
 ```python
 def Q(P):
