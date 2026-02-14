@@ -1,4 +1,4 @@
-![](I_love_coding.jpg)
+<img src="I_love_coding.jpg" width="500px">
 
 ![](BT_and_AT.png)
 
