@@ -1,4 +1,3 @@
----
 # Do You Love Coding?
 
 ## The Art of Universal Expression
@@ -16,7 +15,6 @@
 
 ![](finite_state_machine_wiki.png)
 
----
 # What is The Halting Problem?
 
 ![](halting_problem_wiki.png)
@@ -28,7 +26,6 @@
 *   **Practical Relevance**: Think of debugging, AI safety, program analysis. Having such a tool would be incredibly powerful.
 *   *But does such a universal tool exist?*
 
----
 # Let's Prove the Halting Problem is Unsolvable
 
 ## Alan Turing's Proof by Contradiction (1936)
@@ -65,7 +62,6 @@
 
 4.  **Conclusion**: In both scenarios, our assumption that `Halts(P, I)` could exist leads to a logical contradiction. Therefore, **no such universal `Halts` algorithm can exist.** The Halting Problem is **undecidable**.
 
----
 # Why Coding Makes Us Fall in Love?
 
 ## Embracing the Boundaries of Computation & Universal Truths
@@ -79,10 +75,7 @@
     *   We appreciate the universal language these abstract models provide, allowing us to translate any logical thought into functional reality.
 *   **Coding is a Dialogue**: It's a precise conversation with a machine, governed by universal rules. Understanding these rules, and their boundaries, elevates coding from a task to an art of logical expression and creative problem-solving.
 
----
 # Q&A & Resources
-
-*   **Ask me anything!**
 
 *   **Recommended Reading:**
     *   [The Halting Problem](../../concepts/computability_theory/historical_foundations/HaltingProblem.md)
@@ -90,4 +83,3 @@
     *   [Computability and Algorithms](../../concepts/computability_theory/ComputabilityAndAlgorithms.md)
     *   [Roger Penrose and Non-Algorithmic Mind](../../concepts/computability_theory/historical_foundations/PenroseArguments.md) (for philosophical implications)
 
----
