@@ -6,7 +6,7 @@
 
 # What is The Halting Problem?
 
-![](halting_problem_wiki.png)
+![](halting_problem_wiki_jp.png)
 
 # Let's Prove the Halting Problem is Unsolvable
 
